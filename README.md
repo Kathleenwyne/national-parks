@@ -2,7 +2,7 @@
 
 ### To Sign Up
 1. Create an account by going to https://github.com/join
-2. Send Kathleen your username and she will add you as an editor to the site
+2. Send Kathleen your username [here](https://github.com/Kathleenwyne/national-parks/issues/1) and she will give you editing privileges
 
 ### To Make Edits
 1. Click on the name of the file you want to edit.
