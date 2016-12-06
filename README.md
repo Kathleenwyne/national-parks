@@ -11,6 +11,6 @@
 4. Click the green `Commit changes` button on the bottom to save.
 
 ### View The Site
-1. It may take a few minutes for the server to update the file on the live site.
+1. It may take a few minutes for the server to update any changes on the live site.
 2. Go to https://kathleenwyne.github.io/national-parks
 3. Select which file you would like to view
