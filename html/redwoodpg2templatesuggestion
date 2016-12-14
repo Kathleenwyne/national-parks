@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Redwoods</title>
+</head>
+<style>
+
+
+
+html {
+    background-color:
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-size: cover;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    width:1600px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1A5276;
+    background-color: #1A5276;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 30px 40px ;
+    text-decoration: none;
+    font-family: helvetica;
+    font-size: large;
+}
+
+li a:hover {
+    background-color: #797D7F;
+}
+.centered-table {
+    margin-left: auto;
+    margin-right: auto;
+}
+.circular-image {
+  border-radius: 50%;
+}
+p {
+  background-color:
+}
+</style>
+
+<a name="top"></a>
+<ul>
+  <li><a href="calparkshome1.html">Home</a></li>
+  <li><a href="redwood1.html">Redwood National Park</a></li>
+  <li><a href="#">Yosemite</a></li>
+  <li><a href="#">Point Reyes</a></li>
+  <li><a href="#">Channel Islands</a></li>
+</ul><br>
+<br>
+  </ul><br>
+    <header>    
+    <h1>National Parks 100 years Celebration</h1>
+    <article>
+    <h3>The Redwoods</h3>
+      </article>
+    </header> 
+  
+   <p>
+    <a href="redwoodmap.gif"
+    <div style="float:left;"><img src="redwoodmap.gif" width="150" alt="Map of Redwoods" title="Redwood Map" />
+    </a>
+  <div><strong>How to Visit:</strong></div>
+        US 101, with its many redwood sentinels, gives you a windshield-framed panorama of the trees. But to appreciate the redwoods, you must walk among them. If you have only a day to visit this 50-mile-long park, stop and see the Lady Bird Johnson Grove and Big Tree. Hike or just stretch your legs (depending on your time) along the Coastal Trail and savor the Pacific prospect of the park. For a longer stay, visit the Tall Trees Grove, drive Howland Hill Road, and end your visit with a splash in a kayak on the Klamath River or a jouncy drive to Fern Canyon and Gold Bluffs Beach. If you are driving an RV or towing a trailer, some stretches of road may be closed to you; check at information centers.
+        </p>
+        <p>
+        <div><strong>When to Go:</strong></div>
+        Year-round. Summer draws highway-clogging crowds, so think about a visit in spring or fall. In both seasons, bird migrations enhance the redwood groves. Rhododendrons burst forth in spring; deciduous trees add color in fall. Rains, welcome to the redwoods but not to visitors, drench the park in winter.
+        </p>
+        <table class="centered-table" cellpadding="100">
+<tr>
+<td align="center" valign="center">
+<a href="file.htm">
+<img title="Klamath" src="klamath.jpg" width="200" height="200" alt="Klamath" />
+<br />
+<td align="center" valign="center">
+<a href="file.htm">
+<img title="Redwood Walks" src="redwoodwalks.jpg" width="200" height="200" alt="Redwood Walks" />
+<br />
+<td align="center" valign="center">
+<a href="file.htm">
+<img title="Redwood" src="redwood.jpeg"width="200"height="200" alt="Redwood" />
+<br />
+<td align="center" valign="center">
+<a href="file.htm">
+<img title="Klamath" src="redwoods-against-milky-way.jpg"width="200"height="200" alt="Klamath" />
+<br />
+</tr>
+<div></table >
+
+        <footer>
+        <p> 
+        <div><strong>CONTACT THE PARK</strong><br>
+          Mailing Address:
+          1111 Second Street<br> 
+          Crescent City, CA 95531<br>
+          Phone:(707) 465-7335<br></div>                                  
+          </p>
+        </footer> 
+
+<a href="https://www.nps.gov/redw/learn/management/centennial-initiative-2016.htm">https://www.nps.gov/redw/learn/management/centennial-initiative-2016.htm</a><br>
+<a href="https://www.nps.gov/planyourvisit/index.htm">https://www.nps.gov/planyourvisit/index.htm</a>
+
+</body>
+</html>
